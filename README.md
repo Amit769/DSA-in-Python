@@ -18,6 +18,7 @@ A collection of my **Data Structures and Algorithms** practice and LeetCode solu
 * Trees
 * Two Pointers
 * LeetCode 75
+* Dynamic Programing
 
 ## 🎯 Purpose
 
